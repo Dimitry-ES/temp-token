@@ -1,5 +1,5 @@
 'use strict';
-
+// Temp token
 import CryptoJS from "crypto-js";
 
 class TempToken {
